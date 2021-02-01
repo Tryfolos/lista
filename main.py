@@ -15,10 +15,10 @@ if time_minutes < 10:
 time = f"{time_hours}:{time_minutes}"
 
 #En lista med affärer.
-affärer = ["Ica", "Coop", "OKQ8", "Willys", "Ikea", "NetOnNet", "Elgiganten", "Apoteket", "Kiosken", "Källargubben", "Jysk", "McDonalds", "Frasses", "Kappahl", "Adolf Hitler", "Stalin", "Donalt Trump", "Stefan Löfven", "Greta Thunberg", "Kommunhuset"]
+affärer = ["Ica", "Coop", "OKQ8", "Willys", "Ikea", "NetOnNet", "Elgiganten", "Apoteket", "Kiosken", "Källargubben", "Jysk", "McDonalds", "Frasses", "Kappahl", "Adolf Hitler", "Stalin", "Donalt Trump", "Stefan Löfven", "Greta Thunberg", "Kommunhuset", "Flygplatsen"]
 
 #En lista med saker som man kan köpa.
-saker = ["Bulle", "Monster", "Knark", "Ost", "Digistive", "Toastol", "Handbojor", "Piska", "Mjölk", "Gurka", "Skinka", "Dammtrasa", "Chips", "Hockeyklubba", "Kondomer", "Basebollträ", "Sås", "Gurkmeja", "Kaffe", "Dator", "Rakapparat", "Motorsåg", "Elefanttestiklar", "Hästkuk", "Vodka", "Rutten banan", "Ingenting", "En slav", "Alvedon"]
+saker = ["Bulle", "Monster", "Knark", "Ost", "Digistive", "Toastol", "Handbojor", "Piska", "Mjölk", "Gurka", "Skinka", "Dammtrasa", "Chips", "Hockeyklubba", "Kondomer", "Basebollträ", "Sås", "Gurkmeja", "Kaffe", "Dator", "Rakapparat", "Motorsåg", "Elefanttestiklar", "Hästkuk", "Vodka", "Rutten banan", "Ingenting", "En slav", "Alvedon", "Torkade aprikoser"]
 
 #Vad gjorde personen.
 handlingar = ["köpte", "Sålde", "skänkte"]
